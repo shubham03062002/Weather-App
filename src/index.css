@@ -1,0 +1,11 @@
+body {
+    background-image: url('https://cdn3.eyeem.com/thumb/f429f9629f5ee5fd660f375214d25a09437442d8-1583616752096/w/750'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensures the background covers the entire viewport height */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+    /* Optionally, you can add other styles */
+  }
+  
